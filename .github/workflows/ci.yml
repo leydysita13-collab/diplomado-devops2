@@ -1,4 +1,4 @@
-# ETAPA 4 — Versión final del laboratorio: CI para una solución con IA.
+# ETAPA4 — Versión final del laboratorio: CI para una solución con IA.
 # lint → pruebas de código (matriz + cobertura) → quality gate del modelo.
 name: CI
 
